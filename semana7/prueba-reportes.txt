@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el sistema muestra los reportes que se encuentran almacenados en memoria dentro del arreglo reportes. Si no se ha registrado ningún reporte, la respuesta es una lista vacía. Después de registrar reportes mediante la ruta POST, estos aparecen en formato JSON cuando se vuelve a consultar la ruta GET.
