@@ -1,1 +1,1 @@
-Semana 7 Y 8
+Semana 6, 7 Y 8
