@@ -1,0 +1,9 @@
+Las plataformas digitales permiten que la ciudadanía participe activamente en la gestión de problemáticas comunitarias.
+El uso de APIs facilita la recepción de información estructurada desde diferentes usuarios.
+Esto permite procesar los datos de forma automática y eficiente.
+Además, mejora la capacidad de respuesta ante situaciones que requieren atención inmediata.
+El formato JSON es clave porque organiza la información de manera clara y estandarizada.
+Express permite crear servidores que reciben y procesan estos datos fácilmente.
+Este tipo de herramientas son fundamentales en el desarrollo de soluciones tecnológicas modernas.
+También fortalecen la transparencia y la comunicación entre ciudadanos e instituciones.
+Por ello, aprender a manejar estas tecnologías es importante en el contexto actual.
